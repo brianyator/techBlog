@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Yator</title>
+    <link>http://www.techie.brianyator.com/</link>
+    <description>Recent content on Brian Yator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="http://www.techie.brianyator.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>temas</title>
+      <link>http://www.techie.brianyator.com/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>http://www.techie.brianyator.com/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://www.techie.brianyator.com/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printing Your First Python Code</title>
+      <link>http://www.techie.brianyator.com/posts/printing-first-python-code/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/posts/printing-first-python-code/</guid>
+      <description>&lt;p&gt;This article offers a very simple beginner help in printing your first python code, if one is new to programming.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.techie.brianyator.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/about/</guid>
+      <description>Hi I&amp;rsquo;m Yator, a Software Engineer.Link to headingI believe in turning complex problems into elegant solutions with code.
+SKILLSLink to headingProgramming LanguagesLink to headingNodeJS,Angular,SQL, Java, C++, HTML, Javascript, PHP, Python, CSS
+TechnicalLink to headingFull-stack development, Internet of Things (IoT)
+PROJECTSLink to headingMlangoWangu - This IoT-based project implements a contactless door system to mitigate COVID-19 spread. It aims to be more accessible for use by the ordinary mwananchi especially in high-traffic areas | Tech stack: C++, C, Java</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.techie.brianyator.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/contact/</guid>
+      <description>Follow me, @brianyator_.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.techie.brianyator.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/projects/</guid>
+      <description>Soon to be updated. Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Brian Yator</title>
+    <link>http://www.techie.brianyator.com/tags/</link>
+    <description>Recent content in Tags on Brian Yator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jan 2023 11:51:36 +0100</lastBuildDate><atom:link href="http://www.techie.brianyator.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://www.techie.brianyator.com/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beginner</title>
+      <link>http://www.techie.brianyator.com/tags/beginner/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>http://www.techie.brianyator.com/tags/code/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://www.techie.brianyator.com/tags/python/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

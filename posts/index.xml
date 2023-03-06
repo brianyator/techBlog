@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brian Yator</title>
+    <link>http://www.techie.brianyator.com/posts/</link>
+    <description>Recent content in Posts on Brian Yator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.techie.brianyator.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Printing Your First Python Code</title>
+      <link>http://www.techie.brianyator.com/posts/printing-first-python-code/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.techie.brianyator.com/posts/printing-first-python-code/</guid>
+      <description>&lt;p&gt;This article offers a very simple beginner help in printing your first python code, if one is new to programming.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
